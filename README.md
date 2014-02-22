@@ -6,7 +6,7 @@ from Twitter but are too lazy to check Twitter website. Use responsibly.
 
 ## How to use
 1. Clone the project
-    git clone https://github.com/tjiusuryanto/twitter-image-scraper
+    git clone git@github.com:tjiusuryanto/twitter-image-scraper.git
 
 2. Install dependencies
     npm install
