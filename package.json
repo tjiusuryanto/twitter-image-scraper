@@ -1,0 +1,16 @@
+{
+  "name": "twitter-image-scraper",
+  "version": "1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+  	"request": "*",
+    "async": "*",
+    "cron": "*",
+    "cheerio": "*",
+    "moment": "*",
+    "redis": "*"
+  }
+}
